@@ -1,1 +1,5 @@
+name = "clra-mirror"
+
+compatibility_date = "2026-07-03"
+
 main = "worker.js"
